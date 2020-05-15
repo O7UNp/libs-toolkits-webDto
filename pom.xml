@@ -7,12 +7,12 @@
     <parent>
         <groupId>dev.xethh.libs.toolkits</groupId>
         <artifactId>base</artifactId>
-        <version>1.0.1</version>
+        <version>1.0.2</version>
     </parent>
 
     <artifactId>webDto</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <modules>
         <module>core</module>
     </modules>
@@ -48,7 +48,7 @@
             <dependency>
                 <groupId>dev.xethh.libs.toolkits</groupId>
                 <artifactId>commons</artifactId>
-                <version>1.0.0</version>
+                <version>1.0.1</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
